@@ -4,6 +4,8 @@
 
 https://git-scm.com/download/win
 
+## Documentation language
+
 [English-readme](#English-readme) <br />
 [Portuguese-readme](#Portuguese-readme)
 
@@ -15,7 +17,7 @@ Practical guide with the main commands.
 - `git status` - display the state of the repository and staging area.
 - `git add` - adds a change in the working directory to the staging area
 - `git commit` - save all staged changes.
-
+- `git push` - to send the commits from your local branch in your local Git repository to the remote repository.
 # Portuguese-readme
 
 Guia prático com os principais comandos.
@@ -24,3 +26,4 @@ Guia prático com os principais comandos.
 - `git status` - permite ver quais alterações foram feitas e o estado delas.
 - `git add` - adiciona uma alteração no diretório ativo à área de staging.
 - `git commit` - salva os arquivos da área de staging / salva o estado do seu projeto.
+- `git push` - to send the commits from your local branch in your local Git repository to the remote repository.
