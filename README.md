@@ -19,6 +19,8 @@ Practical guide with the main commands.
 - `git commit` - save all staged changes;
 - `git push` - to send the commits from your local branch in your local Git repository to the remote repository;
 - `git pull` - update the local version of a repository from a remote;
+- `git log` - allow you to review and read a history/commit of everything that happens to a repository;
+- `git clone` - copy an existing Git repository into a new local directory.
 
 # Portuguese-readme
 
@@ -30,3 +32,5 @@ Guia prático com os principais comandos.
 - `git commit` - salva os arquivos da área de staging / salva o estado do seu projeto;
 - `git push` - envia alterações locais para o repositório remoto;
 - `git pull` - puxa as alterações do repositório remoto para o local;
+- `git log` - permite que você visualize e leia a/o história/commit de tudo que aconteceu no repositório;
+- `git clone` - clonar um repositório Git ou projeto já existente para um novo local.
